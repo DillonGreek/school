@@ -260,6 +260,13 @@ li {
 /*  
 side menu
 */
+#projectDiv{
+    display: block;
+    padding-top: 25vh;
+}
+#side{
+    
+}
 aside {
     width: 25%;
     height: fit-content;
